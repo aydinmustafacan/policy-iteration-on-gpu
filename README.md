@@ -1,4 +1,5 @@
-# Project Code Directory
+# Introductory Video
+[Project Presentation](https://www.youtube.com/watch?v=LNoa-ZHPNII)
 
 This directory contains all the project files that are supposed to be run on the NVIDIA GPU enabled machine. 
 

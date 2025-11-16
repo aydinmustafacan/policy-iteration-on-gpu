@@ -1,0 +1,11 @@
+Optimal policy: 0 0 0 0 0 
+Optimal value:  10 10 10 10 10 
+
+--- Performance Metrics ---
+Data source: External files
+MDP dimensions: 5 states, 2 actions
+Gamma (discount factor): 0.9
+Policy iterations completed: 1
+GPU computation time: 3.83789 ms
+Total CPU time: 3.845 ms
+GPU speedup factor: 1.00185x
